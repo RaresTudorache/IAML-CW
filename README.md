@@ -1,1 +1,1 @@
-# IAML-CW
+# Introductory Applied Machine Learning
